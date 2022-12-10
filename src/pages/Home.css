@@ -1,0 +1,13 @@
+body{
+    background-color: var(--bg_color);
+}
+.container_fluid{
+    padding: 0% 1% 0% 1%;
+}
+.container{
+    padding: 1% 2% 0% 2%;
+}
+.submit_ballot{
+    padding: 1%;
+    text-align: center;
+}

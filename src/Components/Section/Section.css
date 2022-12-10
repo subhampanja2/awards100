@@ -1,0 +1,16 @@
+.section_container{
+    width: 100%;
+}
+.section_title{
+    color: var(--font_color);
+    margin: 1%;
+    border-bottom: 4px solid var(--font_color);
+    width: max-content;
+    padding:0.4%;
+}
+.section_nominee{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
